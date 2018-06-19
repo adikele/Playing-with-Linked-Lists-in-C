@@ -10,7 +10,7 @@ If you have any comments about the program, I am happy to have your feedback!
 Aditya
 
 ********************************
-Notes for version 2:
+Notes for version 2 "Source-LinkedListApplication-v02.cpp":
 dt: 15.6.18
 
 PROGRAM OBJECTIVE:
@@ -37,7 +37,7 @@ STATUS OF PROGRAM:
 Works! Tested. This is the GitHub publishing version.
 
 ******************************
-Notes for version 1:
+Notes for version 1 "Source.cpp":
 dt: 11.3.16
 
 In this program, I insert characters in a linked list in two different methods. In the first method, the new item is stored to the rear end of the linked list, and in the second method, it is stored in the front end of the list. Printing out the items stored shows the differences in the way they were stored.
