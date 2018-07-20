@@ -22,7 +22,7 @@ POSSIBILE USE:
 As a part of a bigger library that needs a linked list structure to save and process data.
 
 STATUS OF PROGRAM:
-Works! Tested. This is the GitHub publishing version.
+Works! Tested with 3-5 samples. This is the GitHub publishing version.
 */
 
 #define _CRT_SECURE_NO_WARNINGS
